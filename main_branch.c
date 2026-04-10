@@ -16,6 +16,16 @@ int main()
     {
         printf("\nSum is odd");
     }
+    //now chek that sum range is between 20 and 30,this code for branch2 version v1.2.0a.
+    if(sum>=20 && sum<=30)
+    {
+        printf("\nSum is between 20 and 30");
+    }
+    else
+    {
+        printf("\nSum is not between 20 and 30");
+    }
+    //
     return 0;
 }
 //this is the version V1.1a
