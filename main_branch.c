@@ -8,4 +8,4 @@ int main()
     printf("Sum of a and b is: %d", sum);
     return 0;
 }
-//this is the version V1.1a //this is the version V1.1B
+//this is the version V1.1a  //this is the version V1.1b  
