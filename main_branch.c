@@ -2,7 +2,7 @@
 int main()
 {
     //now this code for branch_1 code
-    int a=10,b=50;
+    int a=10,b=3000;
     int sum=a+b;//this is the merged  code from branch_1.
     printf("hello you are in branch_1\n");
     printf("Sum of a and b is: %d", sum);
